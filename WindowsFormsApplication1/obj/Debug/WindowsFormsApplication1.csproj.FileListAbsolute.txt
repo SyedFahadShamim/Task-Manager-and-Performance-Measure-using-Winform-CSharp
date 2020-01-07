@@ -1,0 +1,84 @@
+c:\users\shakeel\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\shakeel\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\shakeel\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\shakeel\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.Design.dll
+c:\users\shakeel\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+c:\users\shakeel\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+c:\users\shakeel\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\shakeel\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\shakeel\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\shakeel\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\shakeel\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\shakeel\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CircularProgressBar.dll
+c:\users\shakeel\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WinFormAnimation.dll
+c:\users\shakeel\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CircularProgressBar.xml
+c:\users\shakeel\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WinFormAnimation.xml
+C:\Users\Shakeel\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AGauge.dll
+C:\Users\Shakeel\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Shakeel\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Shakeel\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Shakeel\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Shakeel\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Shakeel\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Shakeel\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AGauge.dll
+C:\Users\Shakeel\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CircularProgressBar.dll
+C:\Users\Shakeel\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.Design.dll
+C:\Users\Shakeel\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+C:\Users\Shakeel\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Shakeel\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WinFormAnimation.dll
+C:\Users\Shakeel\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\CircularProgressBar.xml
+C:\Users\Shakeel\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WinFormAnimation.xml
+C:\Users\Shakeel\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Shakeel\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Shakeel\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Shakeel\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Shakeel\Desktop\final\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Shakeel\Desktop\final\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Shakeel\Desktop\final\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Shakeel\Desktop\final\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Shakeel\Desktop\final\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Shakeel\Desktop\final\WindowsFormsApplication1\bin\Debug\AGauge.dll
+C:\Users\Shakeel\Desktop\final\WindowsFormsApplication1\bin\Debug\CircularProgressBar.dll
+C:\Users\Shakeel\Desktop\final\WindowsFormsApplication1\bin\Debug\MetroFramework.Design.dll
+C:\Users\Shakeel\Desktop\final\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+C:\Users\Shakeel\Desktop\final\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Shakeel\Desktop\final\WindowsFormsApplication1\bin\Debug\WinFormAnimation.dll
+C:\Users\Shakeel\Desktop\final\WindowsFormsApplication1\bin\Debug\CircularProgressBar.xml
+C:\Users\Shakeel\Desktop\final\WindowsFormsApplication1\bin\Debug\WinFormAnimation.xml
+C:\Users\Shakeel\Desktop\final\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Shakeel\Desktop\final\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Shakeel\Desktop\final\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Shakeel\Desktop\final\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\final\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\final\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\final\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\final\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\final\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\final\WindowsFormsApplication1\bin\Debug\AGauge.dll
+E:\final\WindowsFormsApplication1\bin\Debug\CircularProgressBar.dll
+E:\final\WindowsFormsApplication1\bin\Debug\MetroFramework.Design.dll
+E:\final\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+E:\final\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+E:\final\WindowsFormsApplication1\bin\Debug\WinFormAnimation.dll
+E:\final\WindowsFormsApplication1\bin\Debug\CircularProgressBar.xml
+E:\final\WindowsFormsApplication1\bin\Debug\WinFormAnimation.xml
+E:\final\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\final\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\final\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\final\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\Task Manager C#\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Task Manager C#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Task Manager C#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Task Manager C#\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Task Manager C#\WindowsFormsApplication1\bin\Debug\AGauge.dll
+F:\Task Manager C#\WindowsFormsApplication1\bin\Debug\CircularProgressBar.dll
+F:\Task Manager C#\WindowsFormsApplication1\bin\Debug\MetroFramework.Design.dll
+F:\Task Manager C#\WindowsFormsApplication1\bin\Debug\MetroFramework.dll
+F:\Task Manager C#\WindowsFormsApplication1\bin\Debug\MetroFramework.Fonts.dll
+F:\Task Manager C#\WindowsFormsApplication1\bin\Debug\WinFormAnimation.dll
+F:\Task Manager C#\WindowsFormsApplication1\bin\Debug\CircularProgressBar.xml
+F:\Task Manager C#\WindowsFormsApplication1\bin\Debug\WinFormAnimation.xml
+F:\Task Manager C#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\Task Manager C#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Task Manager C#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Task Manager C#\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
